@@ -1,1 +1,6 @@
 /ffmpeg
+/venv
+/source
+/stage1
+/stage2
+output*.txt

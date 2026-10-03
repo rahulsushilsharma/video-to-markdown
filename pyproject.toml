@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "docling>=2.87.0",
+    "easyocr>=1.7.2",
+    "opencv-python>=4.13.0.92",
+    "pillow<11.0.0",
+    "pytesseract>=0.3.13",
+    "surya-ocr>=0.20.0",
+]
